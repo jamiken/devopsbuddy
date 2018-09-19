@@ -1,4 +1,4 @@
-package com.devopsbuddy;
+package com.ims.devopsbuddy;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
