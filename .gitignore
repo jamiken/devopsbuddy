@@ -1,12 +1,7 @@
 /target/
-!.mvn/wrapper/maven-wrapper.jar
+### !.mvn/wrapper/maven-wrapper.jar
 
-# Package Files #
-*.class
-*.jar
-*.war
-*.ear
-
+### Mobile Tools for java (J2ME)
 .mtj.tmp/
 
 ### STS ###
@@ -31,3 +26,12 @@
 /dist/
 /nbdist/
 /.nb-gradle/
+
+### Package Files
+*.class
+*.jar
+*.war
+*.ear
+
+### virtual machine crash logs, see heep://www.java.com/en/download/help/error_hotspot.xml
+hs_err_pid*
